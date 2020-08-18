@@ -16,4 +16,4 @@ You can:
 
 ## Material UI
 
-This app is made with Material UI but I didn't worked so much with css and layout compositing tho. But the main fact is that it is working, maybe someday I'll finish it, maybe
+This app is made with Material UI and works fine
