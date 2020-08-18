@@ -1,3 +1,27 @@
 .todo__list {
-  text-align: center;
+    text-align: center;
+}
+
+.modal > div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.modal > div h1 {
+    margin: 10px 0 10px 0;
+}
+
+.modal > div > div {
+    display: flex;
+    justify-content: center;
+}
+
+.modal > div > div > * {
+    margin: 0 10px;
+}
+
+.todo__list > svg:hover {
+    cursor: pointer;
+    color: #1d1d1dd5;
 }
