@@ -16,4 +16,4 @@ You can:
 
 ## Material UI
 
-This app is made with Material UI and works fine
+This app is made with Material UI and works fine. Don't taste it on phones 'cause I don't want to work with it ☢
